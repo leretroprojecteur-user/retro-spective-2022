@@ -1,5 +1,6 @@
 # Project-specific
 data/**/*.csv
+website-cine-e77fb4ab2924.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
